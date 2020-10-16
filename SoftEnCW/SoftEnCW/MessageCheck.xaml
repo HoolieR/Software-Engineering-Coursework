@@ -1,0 +1,14 @@
+﻿<Window x:Class="SoftEnCW.MessageCheck"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoftEnCW"
+        mc:Ignorable="d"
+        Title="MessageCheck" Height="300" Width="300">
+    <Grid>
+        <TextBox x:Name="MessageIDText" HorizontalAlignment="Left" Height="23" Margin="83,40,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="193"/>
+        <Label x:Name="label" Content="MessageID&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,36,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Process" HorizontalAlignment="Left" Margin="89,107,0,0" VerticalAlignment="Top" Width="103" Height="42" Click="button_Click"/>
+    </Grid>
+</Window>

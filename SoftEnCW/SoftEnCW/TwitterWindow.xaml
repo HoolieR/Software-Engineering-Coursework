@@ -1,0 +1,20 @@
+﻿<Window x:Class="SoftEnCW.TwitterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SoftEnCW"
+        mc:Ignorable="d"
+        Title="TwitterWindow" Height="300" Width="501.828">
+    <Grid>
+        <Label x:Name="label" Content="Sender" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Message" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox x:Name="senderTextBox" HorizontalAlignment="Left" Height="23" Margin="73,13,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="205"/>
+        <TextBox x:Name="messageTextBox" HorizontalAlignment="Left" Height="160" Margin="73,41,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="205"/>
+        <Button x:Name="saveButton" Content="Save" HorizontalAlignment="Left" Margin="194,234,0,0" VerticalAlignment="Top" Width="84" Height="27" Click="saveButton_Click"/>
+        <Button x:Name="loadButton" Content="Load" HorizontalAlignment="Left" Margin="10,234,0,0" VerticalAlignment="Top" Width="83" Height="27" Click="loadButton_Click_1"/>
+        <TextBox x:Name="hashtagBox" HorizontalAlignment="Left" Height="105" Margin="318,14,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="167"/>
+        <TextBox x:Name="mentionBox" HorizontalAlignment="Left" Height="129" Margin="318,132,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="167"/>
+
+    </Grid>
+</Window>

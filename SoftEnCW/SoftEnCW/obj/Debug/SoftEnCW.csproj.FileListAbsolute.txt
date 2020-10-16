@@ -1,0 +1,76 @@
+c:\users\work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.exe.config
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.exe
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.pdb
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csprojResolveAssemblyReference.cache
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\MainWindow.g.cs
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\MessageCheck.g.cs
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\App.g.cs
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_MarkupCompile.cache
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_MarkupCompile.lref
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\MainWindow.baml
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\MessageCheck.baml
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.g.resources
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.Properties.Resources.resources
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csproj.GenerateResource.Cache
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.exe
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.pdb
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\EmailWindow.g.cs
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SMSWindow.g.cs
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\TwitterWindow.g.cs
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\EmailWindow.baml
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SMSWindow.baml
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\TwitterWindow.baml
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Work\documents\visual studio 2015\Projects\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_Content.g.cs
+D:\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.exe.config
+D:\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.exe
+D:\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.pdb
+D:\SoftEnCW\SoftEnCW\bin\Debug\Newtonsoft.Json.dll
+D:\SoftEnCW\SoftEnCW\bin\Debug\Newtonsoft.Json.xml
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csprojResolveAssemblyReference.cache
+D:\SoftEnCW\SoftEnCW\obj\Debug\EmailWindow.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\MainWindow.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\MessageCheck.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\SMSWindow.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\TwitterWindow.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\App.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_Content.g.cs
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_MarkupCompile.cache
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_MarkupCompile.lref
+D:\SoftEnCW\SoftEnCW\obj\Debug\EmailWindow.baml
+D:\SoftEnCW\SoftEnCW\obj\Debug\MainWindow.baml
+D:\SoftEnCW\SoftEnCW\obj\Debug\MessageCheck.baml
+D:\SoftEnCW\SoftEnCW\obj\Debug\SMSWindow.baml
+D:\SoftEnCW\SoftEnCW\obj\Debug\TwitterWindow.baml
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.g.resources
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.Properties.Resources.resources
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csproj.GenerateResource.Cache
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csproj.CoreCompileInputs.cache
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.exe
+D:\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.pdb
+D:\Coursework\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.exe.config
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.exe
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.pdb
+D:\Coursework\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.exe
+D:\Coursework\SoftEnCW\SoftEnCW\bin\Debug\SoftEnCW.pdb
+D:\Coursework\SoftEnCW\SoftEnCW\bin\Debug\Newtonsoft.Json.dll
+D:\Coursework\SoftEnCW\SoftEnCW\bin\Debug\Newtonsoft.Json.xml
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csprojResolveAssemblyReference.cache
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\EmailWindow.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\MainWindow.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\MessageCheck.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SMSWindow.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\TwitterWindow.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\App.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_Content.g.cs
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_MarkupCompile.cache
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW_MarkupCompile.lref
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\EmailWindow.baml
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\MainWindow.baml
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\MessageCheck.baml
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SMSWindow.baml
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\TwitterWindow.baml
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.g.resources
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.Properties.Resources.resources
+D:\Coursework\SoftEnCW\SoftEnCW\obj\Debug\SoftEnCW.csproj.GenerateResource.Cache
